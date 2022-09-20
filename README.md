@@ -7,3 +7,5 @@ Second, I added a few @media screens to edit some of the code when the window co
   Made the .content boxes display to contents to allow it to strech from the left to the right when the benefits section drops below the content.
   Added a few lines of code to make the bennefits section strech from left to right to fill the screen
   Added a height dimension to fit the content of the paragraph text and allow the box to grow as the text grew
+  
+  HTML Link : https://hoffmanchandler.github.io/Module1-Challenge-CH/Develop/index.html
